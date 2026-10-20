@@ -1,10 +1,22 @@
 
-<?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://chitla-trading-website.vercel.app/</loc></url>
-  <url><loc>https://chitla-trading-website.vercel.app/about.html</loc></url>
-  <url><loc>https://chitla-trading-website.vercel.app/education.html</loc></url>
-  <url><loc>https://chitla-trading-website.vercel.app/analysis.html</loc></url>
-  <url><loc>https://chitla-trading-website.vercel.app/strategies.html</loc></url>
-  <url><loc>https://chitla-trading-website.vercel.app/contact.html</loc></url>
+  <url>
+    <loc>https://chitla-trading-website.vercel.app/</loc>
+  </url>
+  <url>
+    <loc>https://chitla-trading-website.vercel.app/about.html</loc>
+  </url>
+  <url>
+    <loc>https://chitla-trading-website.vercel.app/education.html</loc>
+  </url>
+  <url>
+    <loc>https://chitla-trading-website.vercel.app/analysis.html</loc>
+  </url>
+  <url>
+    <loc>https://chitla-trading-website.vercel.app/strategies.html</loc>
+  </url>
+  <url>
+    <loc>https://chitla-trading-website.vercel.app/contact.html</loc>
+  </url>
 </urlset>
